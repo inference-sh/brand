@@ -1,0 +1,11 @@
+.DS_Store
+*.psd
+*.ai
+*.sketch
+node_modules/
+
+# sibling submodules (mounted in parent repo, not part of content)
+blog/
+compliance/
+docs/
+skills/
